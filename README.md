@@ -452,7 +452,7 @@ align-items: bottom;
                 </table>
             </div>
             <footer class="m">
-                Designed and Developed by PREETHI B &copy; 2023
+                Designed and Developed by PREETHI B &copy; 2024
                 </footer>
                
 </body>
@@ -624,7 +624,7 @@ align-items: bottom;
                         </div>
                     </div>
                     <footer>
-                        <center> Designed and Developed by RajaGopal (23002920) </center>
+                        <center> Designed and Developed by Preethi B </center>
                     </footer>
                 </body>
                 </html>
